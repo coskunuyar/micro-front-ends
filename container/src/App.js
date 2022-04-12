@@ -20,8 +20,6 @@ const generateClassName = createGenerateClassName({
 const history = createBrowserHistory();
 
 export default () => {
-  console.log("revalidation is successfull!", "test3");
-
   const [isSignedIn, setIsSignedIn] = useState(false);
 
   useEffect(() => {
