@@ -1,6 +1,6 @@
 {
   "name": "dashboard",
-  "author": "Coskun Uyar",
+  "author": "Coskun",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve --config config/webpack.dev.js",
