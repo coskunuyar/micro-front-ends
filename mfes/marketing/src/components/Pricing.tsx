@@ -134,7 +134,6 @@ export default function Pricing() {
     <React.Fragment>
       {/* Hero unit */}
       <Container maxWidth="sm" component="main" className={classes.heroContent}>
-        <h1>Hello World!</h1>
         <Typography
           component="h1"
           variant="h2"
