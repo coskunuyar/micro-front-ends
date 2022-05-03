@@ -66,7 +66,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              Home Page
+              Home Page - Piscada Demo
             </Typography>
             <Typography
               variant="h5"
